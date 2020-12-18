@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>test.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D2A462DCA077A09D0C8304F88C9B73996A6802CA</string>
+				<key>dateExpires</key>
+				<string>2018/6/29</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>45K28AU3JK.com.personal.mdd.2017game</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>45K28AU3JK</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>45K28AU3JK.com.personal.mdd.2017game</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>test.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b5f92154-e00d-48bf-8ab1-d7a83a450253</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>45K28AU3JK</string>
+				<key>name</key>
+				<string>Jin Du</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
